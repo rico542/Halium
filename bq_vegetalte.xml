@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="proprietary_vendor_bq" path="vendor/bq" remote="them" />
+  <project name="android_device_bq_vegetalte" path="device/bq/vegetalte" remote="los" />
+  <project name="android_device_bq_msm8916-common" path="device/bq/msm8916-common" remote="los" />
+  <project name="android_kernel_bq_msm8939" path="kernel/bq/msm8939" remote="los" />
+</manifest>
